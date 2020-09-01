@@ -3,7 +3,7 @@ id: 7
 title: Home
 date: 2020-08-16T00:12:51+00:00
 author: prosperity
-layout: page
+layout: default
 guid: http://localhost/onahprosperfolio/?page_id=7
 site-post-title:
   - disabled
